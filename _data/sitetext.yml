@@ -11,13 +11,13 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to inseong's blog
+    text: It's good to meet you!
+    button: About me
+    buttonlink: "#introdu"
 
-  services:
-    title: "Services"
+  introdu:
+    title: "김인성"
     text: "Lorem ipsum"
     section: services
     list:
