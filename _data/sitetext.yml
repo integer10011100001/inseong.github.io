@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#introdu"
 
   introdu:
-    title: "김인성"
+    title: "inseong"
     text: "Lorem ipsum"
     section: services
     list:
